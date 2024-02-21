@@ -12,9 +12,9 @@ Apply the knowledge you've gained to reviewing and grading technical work submtt
 # Instructions
 In this scenario, you are a lead Linux developer at the top-tech company ABC International Inc. As one of ABC Inc.'s most trusted Linux developers, you have been tasked with creating a script called backup.sh which runs every day and automatically backs up any encrypted password files that have been updated in the past 24 hours.
 
-**Introductions on how to run the project locally
+*Introductions on how to run the project locally
 - Save the backup.sh file you're working on and make it executable using: 
-**chmod u+x
+*chmod u+x
 - Verify the file is executable using the ls command with the -l option using:
 **ls -l backup.sh
 - Download the following .zip file with the wget command:
